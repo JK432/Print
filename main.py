@@ -1,0 +1,4 @@
+#Write a python program to print the following pattern without using Loop
+print("*")
+print("*  *")
+print("*  *  *")
